@@ -1,0 +1,17 @@
+Tutorial link : https://youtu.be/Ke90Tje7VS0
+
+- npm i -g create-react-app
+- go to the folder you want 
+- create-react-app app-one [ apply any name]
+- npm start [ to run the server ]
+
+
+If project cloned 
+- remove "node_modules" folder
+- remove "package-lock.json" file
+- run "npm install"
+- Thats it command will create all the files needed
+
+If somting goes wrong
+- npm cache clean --force
+- npx create-react-app tl-app
