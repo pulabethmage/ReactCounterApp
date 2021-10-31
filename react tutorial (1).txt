@@ -15,3 +15,25 @@ If project cloned
 If somting goes wrong
 - npm cache clean --force
 - npx create-react-app tl-app
+
+Counter App Setup
+- create-react-app counter-app
+- npm i bootstrap
+- import the bootstrap into the index.js
+- Create a folder (components) in src folder
+- create a file counter.jsx
+- in counter.jsx import react components by following
+- imrc and cc shortcuts
+    -cc and write Counter as the class name
+
+- then go to index.js and import Counter class
+- instead of App component add Counter component so it will show in the Browser
+
+
+
+Visual Code shortcuts
+- <div>Somthing Goes Here</div>
+- if we want to change the div tag highlight it and press ctrl + D it will highlight both with double cosor
+
+Counter.jsx
+- if add React.Fragment if will remove the extra div and render the code snipit in to hte root div
